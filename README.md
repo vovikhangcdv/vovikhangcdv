@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://twitter.com/doublevkay">
     <img src="https://img.shields.io/twitter/follow/doublevkay?style=for-the-badge&label=%40doublevkay&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">  </a>
-  <a href="https://www.linkedin.com/in/ai-ho-0525a710b/">
+  <a href="https://www.linkedin.com/in/vovikhangcdv/">
     <img src="https://img.shields.io/badge/-Khang%20Vo-green?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   
