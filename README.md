@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Khang Vo (doublevkay)</h1>
-<h3 align="center">A passionate security researcher.</h3>
-
+<h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=@doublevkay" /></h1>
+<p align="center"><i>- another security engineer at @Somewhere.</i></p>
+<hr />
 <p align="center">
   <a href="https://twitter.com/doublevkay">
     <img src="https://img.shields.io/twitter/follow/doublevkay?style=for-the-badge&label=%40doublevkay&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">  </a>
@@ -18,17 +18,4 @@
 
 </p>
 
-<p align="center">
-<a href="https://github.com/vovikhangcdv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vovikhangcdv&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-</p>
-
-<hr />
-
-
-- 👀 I’m interested in hacking, web exploitation, cyber security.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on security research.
-- 📫 How to reach me: doublevkay@gmail.com
 
