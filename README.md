@@ -1,5 +1,5 @@
 <h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=@doublevkay" /></h1>
-<p align="center"><i>- another security engineer at &lt;somewhere&gt;.</i></p>
+<p align="center"><i>- another Security Engineer.</i></p>
 <hr />
 <p align="center">
   <a href="https://twitter.com/doublevkay">
